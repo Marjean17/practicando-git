@@ -1,2 +1,2 @@
-# practicando-git
+# practicando-git jojojo
 vamos a practicar control de versiones
